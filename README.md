@@ -6,3 +6,5 @@
 - ML Baseline: Machine learning baselines tests
 - GLadj_matrices_qual_analysis: Qualitative analysis of learned connectivity matrices
 - GLadj_matrices_quant_analysis: Quantitative analysis (t-test and correlations) of learned connectivity matrices and behavioral data
+
+All the details about the files' content are explained in the thesis document "Master Thesis Lorenzo Mattia 1793272_print".
