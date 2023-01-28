@@ -1,4 +1,4 @@
-# GNN-for-classification-and-task-conditioned-brain-connectivity-estimation-of-EEG-data
+# GNNs-for-classification-and-task-conditioned-brain-connectivity-estimation-of-EEG-data
 
 - Social memory cuing full dataset: Dataset loading and information extraction
 - GNN- torch GL SAGE/GCN: Graph learning network training with no hyperparameters optimization
